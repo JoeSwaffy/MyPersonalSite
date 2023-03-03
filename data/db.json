@@ -1,0 +1,15 @@
+{
+    "users":[
+        {
+            "email" : "swaffytech@gmail.com",
+            "password" : "Thisissecure54"
+        }
+    ],
+    "posts":[
+        {
+            "title" : "Welcome to my Blog!",
+            "date": "2/26/2023",
+            "body": "This is a test post for my fake api/backened blog will most likely be removed"
+        }
+    ]
+}

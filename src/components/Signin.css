@@ -1,0 +1,12 @@
+.login{
+    border-radius:15px;
+    background-color: white;
+    float: right;
+    width: 25%;
+    min-height: 325px;
+    display: inline;
+    padding: 30px;
+    border: 1px solid #efecec;
+
+}
+
